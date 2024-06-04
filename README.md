@@ -1,1 +1,1 @@
-# IMDB-Comment-Classifier-Fine-tuning-
+Finetuning a Distilbert model for Text Classification purposes.
