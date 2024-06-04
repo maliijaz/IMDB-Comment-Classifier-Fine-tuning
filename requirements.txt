@@ -1,0 +1,11 @@
+transformers
+torch
+peft
+datasets
+scikit-learn
+tensorflow
+evaluate
+numpy
+auto-gptq
+optimum
+bitsandbytes
